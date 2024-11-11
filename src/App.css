@@ -13,7 +13,8 @@ body {
 
 header,
 main,
-footer {
+footer,
+.navbar {
   padding: 1rem 2rem;
 }
 
@@ -90,6 +91,7 @@ article {
   margin-bottom: 4rem;
   border-bottom: 1px solid lightgray;
   padding-bottom: 2rem;
+  padding: 1rem 2rem;
 }
 
 article p::first-letter {

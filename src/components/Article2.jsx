@@ -21,7 +21,7 @@ function Article2() {
         ea eaque molestias dignissimos accusamus. Aspernatur, tempore?
       </p>
 
-      <a class="continues" href="#">
+      <a class=".continues" href="#">
         Continues...
       </a>
     </article>
