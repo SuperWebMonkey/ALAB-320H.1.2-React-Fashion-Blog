@@ -1,5 +1,5 @@
 # [Netlify Live Link](Netlify link here)
-# [GitHub Pages Live Link](GitHub Pages link of HTML version)
-# [GitHub Link of HTML Version](GitHub link for HTML version)
+# [GitHub Pages Live Link](https://superwebmonkey.github.io/ALAB-320.1.2-Fashion-Blog-HTML-Page/)
+# [GitHub Link of HTML Version](https://github.com/SuperWebMonkey/ALAB-320.1.2-Fashion-Blog-HTML-Page)
 
 
